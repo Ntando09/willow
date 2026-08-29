@@ -2,6 +2,10 @@
 
 A self-healing AI companion that lives on your desktop. Willow can chat, search the web, control your computer, and repair herself when things break.
 
+## Security Note
+This project includes endpoints that can control your mouse, keyboard, and capture screenshots. 
+Only run it on machines you own. The computer-use API is designed for local, single-user operation.
+
 ## Architecture
 
 - **Frontend**: Next.js 16 + React Three Fiber (3D experience)
