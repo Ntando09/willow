@@ -1,4 +1,4 @@
-# Willow — Phase 2 RAY v10.4
+# Willow v10.4
 
 A self-healing AI companion that lives on your desktop. Willow can chat, search the web, control your computer, and repair herself when things break.
 
